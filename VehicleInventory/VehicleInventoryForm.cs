@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Nicholas Mitchell nmitchell11@cnm.edu
+// Car Inventory Demo
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
